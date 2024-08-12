@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!DOCTYPE html>
 <head>
-<h1>"Bienvenidos"</h1>
-  
+  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0R5Pf5GrIkvPTJnXzXgUeDKXq2dOcwL7PlrO1Vn98sA1mJzpQehUk78lVltFvtmUz2OE&usqp=CAU">
+<h1>¡Bienvenidos!✌️</h1>
 </head>
 
 
