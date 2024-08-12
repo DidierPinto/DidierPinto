@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </head>
 <body>
 
-<img src = "https://asimov.cloud/web/image/7871-5e12372c/Android%20Studio%20-%20Social.png" height = "90" width = "120">
+<img src = "https://miro.medium.com/v2/resize:fit:863/0*B1FlGmCGFUFWGZBE.png" height = "90" width = "120">
 
 <h2>Proyectos</h2>
 <br>
