@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <tr>
     <td>AJuego Triki/td>
     <td>Es un juego muy dinamico, que puedes utilizar, y concursar, competir con tus conocidos, volver al pasado cuando jugabas en el colegio. este juego esta desarrollado en Java utilizando condicionales FOR</td>
-    <td><img src = "https://asimov.cloud/web/image/7871-5e12372c/Android%20Studio%20-%20Social.png" height = "90" width = "120"></td>
+    <td><img src = "https://i.ytimg.com/vi/7aLRgzerY6c/maxresdefault.jpg" height = "90" width = "120"></td>
     
   </tr>
   <tr>
