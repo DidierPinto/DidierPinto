@@ -54,7 +54,10 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<img src = "https://png.pngtree.com/element_our/png_detail/20180827/linkedin-social-media-icon-png_71812.jpg height = "50" width = "50">"
+<img src = "https://png.pngtree.com/element_our/png_detail/20180827/linkedin-social-media-icon-png_71812.jpg" height = "90" width = "120">
+<img src = "" height = "90" width = "120">
+<img src = "" height = "90" width = "120">
+
 
   <h2>&copy;</h2>
 </body>
