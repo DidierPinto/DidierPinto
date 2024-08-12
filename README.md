@@ -40,9 +40,6 @@ Here are some ideas to get you started:
     <td>Este es un ejercicio muy practico que puede ayudarte a profundizar tus conocimientos sobre como las aplicaciones mobiles se adaptan a diferentes orientaciones de pantallas 
     utilizando arquitectura View Model</td>
     <td><img src = "https://miro.medium.com/v2/resize:fit:863/0*B1FlGmCGFUFWGZBE.png" height = "90" width = "150"></td>
-
-    
-
   </tr>
   <tr>
     <td>Ahorra Voltios</td>
@@ -56,6 +53,8 @@ Here are some ideas to get you started:
     <td><img src = "https://i.ytimg.com/vi/KQDeY7oIxp4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSjlBNvKE9OJ-40MYQpnN3fqCCqg" height = "90" width = "150"></td>
   </tr>
 </table>
+
+<img src = "https://png.pngtree.com/element_our/png_detail/20180827/linkedin-social-media-icon-png_71812.jpg height = "50" width = "50">"
 
   <h2>&copy;</h2>
 </body>
