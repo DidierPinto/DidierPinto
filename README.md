@@ -40,7 +40,10 @@ Here are some ideas to get you started:
     <td>View Model</td>
     <td>Este es un ejercicio muy practico que puede ayudarte a profundizar tus conocimientos sobre como las aplicaciones mobiles se adaptan a diferentes orientaciones de pantallas 
     utilizando arquitectura View Model</td>
-    <td><img src = "https://img.impactotic.co/wp-content/uploads/2023/07/06183022/Transicion-Energetica-1068x664-1.jpg height = "90" width = "150"></td>
+    <td><img src = "https://i.ytimg.com/vi/7aLRgzerY6c/maxresdefault.jpg" height = "90" width = "150"></td>
+
+    
+
   </tr>
   <tr>
     <td>Ahorra Voltios</td>
