@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <head>
 
-<img src = "https://i.ytimg.com/vi/kypaoh55ro8/hqdefault.jpg">
-
 <h1>¡Bienvenidos!✌</h1>
 <h3>Les comparto algunos proyectos desarrollados con el IDE de Android Studio</h3>
 </head>
 <body>
 
-<img src = "https://miro.medium.com/v2/resize:fit:863/0*B1FlGmCGFUFWGZBE.png" height = "90" width = "120">
+<img src = "https://i.ytimg.com/vi/kypaoh55ro8/hqdefault.jpg" height = "90" width = "120">
 
 <h2>Proyectos</h2>
 <br>
