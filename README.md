@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 <h2>Proyectos</h2>
 <br>
-<br>
 <table>
   <tr>
     <th>Nombre Proyecto</th>
@@ -34,9 +33,10 @@ Here are some ideas to get you started:
     <th>Imagen</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>AJuego Triki/td>
+    <td>Es un juego muy dinamico, que puedes utilizar, y concursar, competir con tus conocidos, volver al pasado cuando jugabas en el colegio. este juego esta desarrollado en Java utilizando condicionales FOR</td>
+    <td><img src = "https://asimov.cloud/web/image/7871-5e12372c/Android%20Studio%20-%20Social.png" height = "90" width = "120"></td>
+    
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
@@ -64,11 +64,6 @@ Here are some ideas to get you started:
     <td>Italy</td>
   </tr>
 </table>
-
-
-
-
-
 
   <h2>&copy;</h2>
 </body>
