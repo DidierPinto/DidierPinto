@@ -33,15 +33,15 @@ Here are some ideas to get you started:
     <th>Imagen</th>
   </tr>
   <tr>
-    <td>AJuego Triki/td>
+    <td>AJuego Triki</td>
     <td>Es un juego muy dinamico, que puedes utilizar,concursar y competir con tus conocidos, volver al pasado cuando jugabas en el colegio. este juego esta desarrollado en Java utilizando condicionales FOR</td>
     <td><img src = "https://i.ytimg.com/vi/7aLRgzerY6c/maxresdefault.jpg" height = "90" width = "150"></td>
     
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>View Model</td>
+    <td>Este es un ejercicio muy practico que puede ayudarte a profundizar tus conocimientos sobre como las aplicaciones mobiles se adaptan a diferentes orientaciones de pantallas utilizando arquitectura View Model</td>
+    <td><img src = "https://i.ytimg.com/vi/7aLRgzerY6c/maxresdefault.jpg" height = "90" width = "150"></td>
   </tr>
   <tr>
     <td>Ernst Handel</td>
