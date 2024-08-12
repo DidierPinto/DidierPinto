@@ -55,9 +55,11 @@ Here are some ideas to get you started:
 </table>
 
 <img src = "https://cdn-icons-png.freepik.com/512/3665/3665172.png" height = "50" width = "50">
-<img src = "" height = "90" width = "120">
-<img src = "" height = "90" width = "120">
-
+<h5>Perfil de Linked In: </h5>
+<img src = "https://st.depositphotos.com/4083027/61472/v/950/depositphotos_614721314-stock-illustration-letter-icon-social-media-icon.jpg" height = "50" width = "50">
+<h5>Perfil de Facebook: </h5>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoMeAetfdK9QpF3lzwmY6sigegAUSzMa-1hA&s" height = "50" width = "50">
+<h5>Perfil de Instagram: </h5>
 
   <h2>&copy;</h2>
 </body>
