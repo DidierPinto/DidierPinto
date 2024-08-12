@@ -13,50 +13,6 @@ Here are some ideas to get you started:
 -->
 
 <!DOCTYPE html>
-<head>
-
- <meta charset="UTF-8">
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
- <style>
-        header {
-            position: relative;
-            width: 100%;
-            height: 400px; /* Ajusta la altura según tus necesidades */
-            overflow: hidden;
-        }
-
-        video {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            object-fit: cover; /* Ajusta el video para cubrir el área del header */
-        }
-
-        .header-content {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            color: white;
-            text-align: center;
-            z-index: 1;
-        }
-    </style>
-    </header>
-
-    <header>
-        <video autoplay muted loop>
-            <source src="ruta-a-tu-video.mp4" type="video/mp4">
-            Tu navegador no soporta el formato de video.
-        </video>
-        <div class="header-content">
-            <h1>Mi Encabezado</h1>
-            <p>Subtítulo o descripción aquí</p>
-        </div>
-    </header>
 
 <h1>¡Bienvenidos!✌</h1>
 <h3>Les comparto algunos proyectos desarrollados con el IDE de Android Studio</h3>
