@@ -52,9 +52,9 @@ Here are some ideas to get you started:
     <td><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_HQLF8f425G3jPYdmN1UgbS_8zSiPfoGhR9U2jp81MtPt2x63_3Gxa6Ga6yvFXiprtE&usqp=CAU" height = "90" width = "150"></td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>Eco Modelo</td>
+    <td> los "modelos" generalmente se refieren a las clases que representan la estructura de los datos que tu aplicación manejará. En el contexto de desarrollo de aplicaciones Android usando Java, estos modelos cumplen varias funciones importantes como: Representacion de datos, facilita la comunicacion entre las bases de datos, Soporta serializacion, mantener el codigo organizado</td>
+    <td><img src = "https://i.ytimg.com/vi/KQDeY7oIxp4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSjlBNvKE9OJ-40MYQpnN3fqCCqg" height = "90" width = "150"></td>
   </tr>
   <tr>
     <td>Laughing Bacchus Winecellars</td>
