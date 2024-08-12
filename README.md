@@ -24,6 +24,48 @@ Here are some ideas to get you started:
 
 <img src = "https://asimov.cloud/web/image/7871-5e12372c/Android%20Studio%20-%20Social.png" height = "90" width = "120">
 
+<h2>Proyectos</h2>
+<br>
+<br>
+<table>
+  <tr>
+    <th>Nombre Proyecto</th>
+    <th>Descripcion</th>
+    <th>Imagen</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
+
+
 
 
 
