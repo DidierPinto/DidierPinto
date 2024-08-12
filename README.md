@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <th>Imagen</th>
   </tr>
   <tr>
-    <td>AJuego Triki</td>
+    <td>Juego Triki</td>
     <td>Es un juego muy dinamico, que puedes utilizar,concursar y competir con tus conocidos, volver al pasado cuando jugabas en el colegio. este juego esta desarrollado en Java utilizando condicionales FOR</td>
     <td><img src = "https://i.ytimg.com/vi/7aLRgzerY6c/maxresdefault.jpg" height = "90" width = "150"></td>
     
