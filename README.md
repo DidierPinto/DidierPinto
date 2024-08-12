@@ -19,7 +19,16 @@ Here are some ideas to get you started:
 
 <h1>¡Bienvenidos!✌</h1>
 </head>
+<body>
 
+
+
+
+
+
+
+  <h2>&copy;</h2>
+</body>
 
 </html>
 
