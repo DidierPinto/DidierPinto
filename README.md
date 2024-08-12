@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <td>Ahorra Voltios</td>
     <td>Crea una aplicación que permita a los usuarios registrar y realizar un seguimiento de su consumo de energía en diferentes categorías (electricidad, agua, gas, etc.). Utiliza     
     variables, operaciones y estructuras de datos para calcular y mostrar estadísticas, como el consumo promedio, comparativas entre períodos y consejos para reducir el consumo</td>
-    <td>img src = "https://img.impactotic.co/wp-content/uploads/2023/07/06183022/Transicion-Energetica-1068x664-1.jpg" height = "90" width = "150"></td>
+    <td><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_HQLF8f425G3jPYdmN1UgbS_8zSiPfoGhR9U2jp81MtPt2x63_3Gxa6Ga6yvFXiprtE&usqp=CAU" height = "90" width = "150"></td>
   </tr>
   <tr>
     <td>Island Trading</td>
