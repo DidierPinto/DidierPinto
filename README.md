@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <!DOCTYPE html>
 <head>
-
-<title>Mis Repositorios de GitHub</title>
 <h1>"Bienvenidos"</h1>
   
 </head>
