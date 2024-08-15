@@ -52,8 +52,7 @@ Here are some ideas to get you started:
     <td> Los "modelos" generalmente se refieren a las clases que representan la estructura de los datos que tu aplicación manejará. En el contexto de desarrollo de aplicaciones Android usando Java, estos modelos cumplen varias funciones importantes como: Representacion de datos, facilita la comunicacion entre las bases de datos, Soporta serializacion, mantener el codigo organizado</td>
     <td><img src = "https://i.ytimg.com/vi/KQDeY7oIxp4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSjlBNvKE9OJ-40MYQpnN3fqCCqg" height = "90" width = "150"></td>
   </tr>
-</table>
-
+</table>s
 <img src = "https://cdn-icons-png.freepik.com/512/3665/3665172.png" height = "50" width = "50">
 <h5>Perfil de Linked In: </h5>
 <img src = "https://st.depositphotos.com/4083027/61472/v/950/depositphotos_614721314-stock-illustration-letter-icon-social-media-icon.jpg" height = "50" width = "50">
