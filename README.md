@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <!DOCTYPE html>
 
-<h1>¡Bienvenidos!✌</h1>
+<h1>Repositorio De Aplicaciones Moviles✌</h1>
 <h3>Les comparto algunos proyectos desarrollados con el IDE de Android Studio</h3>
 </head>
 <body>
